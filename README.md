@@ -1,6 +1,6 @@
-# todo
+# todo application
 
-This template should help get you started developing with Vue 3 in Vite.
+This is sample todo application built using Vue 3 and Vite
 
 ## Recommended IDE Setup
 
